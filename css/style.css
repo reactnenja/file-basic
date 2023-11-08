@@ -1,0 +1,46 @@
+@import url("./min-style.css");
+@import url("./response.css");
+@import url("./normalize.css");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --site-fonts: ;
+  --site-color-white: #ffffff;
+  --site-color-black: #000000;
+  --site-color-green: ;
+  --site-color-blue: ;
+  --site-color-danger: ;
+  --site-color-dark: ;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: ;
+}
+
+/* ASIDE SECTION STYLE */
+.aside {
+}
+/* ASIDE SECTION STYLE */
+/* HEADER SECTION STYLE */
+.header {
+}
+/* HEADER SECTION STYLE */
+/* MAIN SECTION STYLE */
+.main {
+}
+/* MAIN SECTION STYLE */
+/* FOOTER SECTION STYLE */
+.footer {
+}
+/* FOOTER SECTION STYLE */
